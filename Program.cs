@@ -7,7 +7,7 @@ namespace Apples_and_oranges
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             List<string> tobuy = new List<string>();
             double total = 0;
             string product;
